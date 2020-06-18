@@ -1,4 +1,4 @@
-- 个人申请总结 (64)
+- 个人总结 (64)
 
   - [计算机科学与工程系 (10)](grad-application/computer-science-and-engineering/README.md)
 
