@@ -1,6 +1,25 @@
-## math
+## 数学与应用数学
 
-- [数学与应用数学](grad-application/math/applied-mathematics/README.md)
-- [金融数学](grad-application/math/financial-mathematics/README.md)
-- [统计学](grad-application/math/statistics/README.md)
+#### PhD Programs:
 
+
+#### Master Programs:
+
+To be continued.
+
+
+
+##### 直博：
+
+To be continued.
+
+##### 保研：
+
+To be continued.
+
+##### 考研：
+
+
+##### 就业：
+
+To be continued.

@@ -6,11 +6,8 @@
 
 #### Master Programs:
 
-* [16级-孟刘震 Karolinska Institute](grad-application/medicine/[SE]-16-mengliuzhen.md)
 
-##### 联培：
-
-To be continued.b
+b
 
 ##### 直博：
 

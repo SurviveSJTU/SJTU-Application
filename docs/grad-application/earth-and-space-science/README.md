@@ -8,9 +8,7 @@ To be continued.
 
 - [16级-田璐 ETH](grad-application/earth-and-space-science/[CH]-16-tianlu.md)
 
-##### 联培：
 
-To be continued.
 
 ##### 直博：
 

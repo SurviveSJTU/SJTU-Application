@@ -8,9 +8,7 @@
 
 To be continued.
 
-##### 联培：
 
-To be continued.
 
 ##### 直博：
 

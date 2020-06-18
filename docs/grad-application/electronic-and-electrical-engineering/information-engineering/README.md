@@ -8,10 +8,6 @@ To be continued.
 
 To be continued.
 
-##### 联培：
-
-To be continued.
-
 ##### 直博：
 
 To be continued.
