@@ -4,10 +4,7 @@
 
 
 
-## 近期更新
 
-- [2020-06-05] [申请总结] [16级-生物医学工程-叶宇铭 Master @ Columbia University](grad-application/biomedical-engineering/[US]-16-yeyuming.md)
-  
 
 ## 飞跃手册是什么？
 
