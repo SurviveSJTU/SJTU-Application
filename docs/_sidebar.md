@@ -38,12 +38,5 @@
   - [暑校](oversea-program/summer-school/README.md)
   - [暑研(3)](oversea-program/summer-research/README.md)
 
-- 英语学习 (3)
-
-  - [GMAT](英语学习/GMAT/README.md)
-  - [GRE(1)](英语学习/GRE/README.md)
-  - [IELTS(2)](英语学习/IELTS/README.md)
-  - [TOEFL](英语学习/TOEFL/README.md)
-  - [四六级](英语学习/四六级/README.md)
 
 
