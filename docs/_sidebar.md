@@ -1,6 +1,6 @@
 - 个人总结
 
-  - [计算机科学与工程系](grad-application/electronic-information-and-electrical-engineering/README.md)
+  - [电子信息与电气工程学院](grad-application/electronic-information-and-electrical-engineering/README.md)
 
   - [生物医学工程学院](grad-application/biomedical-engineering/README.md)
 
@@ -12,9 +12,9 @@
 
   - [化学化工学院](grad-application/chemistry/README.md)
 
-  - [数学与统计系](grad-application/math/README.md)
+  - [数学科学学院](grad-application/math/README.md)
 
-  - [机械与能源工程系](grad-application/mechanical-and-energy-engineering/README.md)
+  - [机械与动力工程学院](grad-application/mechanical-and-energy-engineering/README.md)
 
   - [材料科学与工程学院](grad-application/materials-science-and-engineering/README.md)
 
@@ -38,6 +38,9 @@
 
   - [国务学院](grad-application/international-and-public-affairs/README.md)
 
+  - [人文学院](grad-application/humanities/README.md)
+
+  - [农业与生物学院](grad-application/agriculture/README.md)
 
 
 - 海外交流
