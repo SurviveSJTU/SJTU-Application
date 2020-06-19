@@ -1,7 +1,7 @@
 ## 上海交通大学飞跃手册
 
 
-本手册由<a href="https://github.com/SurviveSJTU/SurviveSJTUManual">上海交通大学生存手册</a>项目独立出来，希望持续收录上海交通大学各院系同学不同出路的经验分享，本手册网页模板参考了<a href="https://github.com/SUSTech-Application/2019-Fall">南方科技大学飞跃手册</a>，感谢南科大同学为打造初版的付出！**本项目早期会暂留一部分南科大同学的投稿作为样本以供参考，一段时间后会主动移除**。
+本手册由<a href="https://github.com/SurviveSJTU/SurviveSJTUManual">上海交通大学生存手册</a>项目独立出来，希望持续收录上海交通大学各院系同学不同出路的经验分享，本手册网页模板参考了<a href="https://github.com/SUSTech-Application/2019-Fall">南方科技大学飞跃手册</a>，感谢南科大同学为打造初版的付出！
 
 ## 飞跃手册是什么？
 
@@ -17,7 +17,7 @@
 
 ### 如何分享经验？
 
-飞跃手册欢迎**所有的毕业生**分享你们的故事，不限出路、不限水平。
+飞跃手册欢迎**所有的毕业生**分享你们的故事，不限出路、不限水平。**早期阶段项目内保留了一部分南科大同学的投稿作为样本以供参考，新投稿可根据自己的隐私需求做1.背景和申请结果模糊化2.选择性留邮箱或者其他投稿人觉得有利于保护自己隐私的方法**。
 
 1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`文件发送到**lianke DOT qin AT gmail.com**，我们会帮助你上架。
 2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/SurviveSJTU/SJTU-Application/tree/master/docs)路径下的对应文件夹Pull Request，可参考 **[《如何进行经验分享》](如何进行经验分享)**，Merge后便即时上线。

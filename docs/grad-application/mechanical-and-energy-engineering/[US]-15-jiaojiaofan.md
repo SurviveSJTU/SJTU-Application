@@ -18,8 +18,6 @@
 >
 > 专利若干（不超过3项）
 >
-> Email: jiaojiaofan@gatech.edu
->
 >备注：此篇文章与我的[知乎回答](https://www.zhihu.com/answer/931648874)基本雷同(sorry)
  
 

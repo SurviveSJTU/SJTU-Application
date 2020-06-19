@@ -24,8 +24,6 @@
 >
 > 申请时 no paper，目前一篇一作论文发表在SIGKDD 2020 (CCF-A)
 >
-> 联系方式: ytwwang@ucdavis.edu
->
 > 想了解我的经历或者academic interest的话可以看我的个人主页：https://rainytong.github.io/
 
 
