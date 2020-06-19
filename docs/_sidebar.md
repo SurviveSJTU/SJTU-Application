@@ -32,7 +32,7 @@
 
   - [巴黎高科学院](grad-application/paris-tech/README.md)
 
-  - [密西根学院](grad-application/umich-joint-institutte/README.md)
+  - [密西根学院](grad-application/umich-joint-institute/README.md)
 
   - [法学院](grad-application/law/README.md)
 
