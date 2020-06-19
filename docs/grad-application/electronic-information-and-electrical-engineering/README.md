@@ -2,7 +2,7 @@
 
 #### PhD Programs:
 
-  - [16级-王雨童 University of California, Davis](grad-application/computer-science-and-engineering/[US]-16-wangyutong.md)
+  - [16级-王雨童 University of California, Davis](grad-application/electronic-information-and-electrical-engineering/[US]-16-wangyutong.md)
 
 
 #### Master Programs:
