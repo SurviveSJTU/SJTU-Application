@@ -4,7 +4,7 @@
 
 > 学积分：机械工程 3/151 (申请用的2/151，大四太水掉了一名gg)
 >
-> TOEFL：102(最高分加起来107)
+> TOEFL：102(最高小分加起来107)
 >
 > GRE:V153+Q169+W3.5
 >
@@ -29,7 +29,7 @@
 | Stanford      | ME MS  | 无                 | 拒绝(2020/3/18)               | 顺便申了Knihgt奖学金也被拒了(2020/1/15)，2020年Kinght学者申请和录取比例为75
 | UC Berkeley  | ME PHD  | Two (both are Assistant Professors)(2020/2/7, 2020/2/22)   | 口头offer，最终拒绝(2020/5/4)    | AP1的funding让我每年去香港一个夏天，我觉得签证头大，就拒了。AP2的方向我觉得不太合适，也拒了。
 | CMU RI       | Robotics PHD  | 无         |     拒绝(2020/2/11)   |感觉非CS出身没戏 |
-| Toronto UTIAS  | MAS | 有(2019/08) | 口头offer，最终拒绝 | 应该是老板要去捞的，后来我不想去这了，我也没告诉那个Professor我交了申请| 
+| Toronto UTIAS  | MAS | 有(2019/08) | 口头offer，最终拒绝(2020/4/5) | 应该是老板要去捞的，后来我不想去这了，我也没告诉那个Professor我交了申请| 
 | GaTech  | Robotics PhD | 两个(老师1面了两次2019/05, 2019/08，老师2找不到邮件记录了) | 录取 | 后来老板把我转到Machine Learning PhD了 | 
 
 ### 申请准备
