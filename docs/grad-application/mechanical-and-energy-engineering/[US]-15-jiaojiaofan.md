@@ -22,14 +22,14 @@
 
  
 
-一共申请了17所美国大学，目前为止获得的结果如下
+一共申请了17所美国大学，目前为止获得的结果如下（我理解的口头offer是，我觉得你的背景很强很强，你会有很多offer，我把我的资料和我的学生提供给你，你看你对我们这感不感兴趣，我觉得我们这很适合你。如果你选择我们这，我们会把位置留给你/我会很大概率给你发offer。如果你交了申请了，请一定要告诉我一下，方便我去pool里捞你）
 
-| 学校         | 项目    | 面试情况           | 结果               |
-| ------------ | ------- | ------------------ | ------------------ |
-| Stanford      | ME MS  | 无                 | 拒绝               |
-| UC Berkeley  | ME PHD  | Two (both are Assistant Professors)   | 口头offer                   |
-| CMU RI       | Robotics PHD  | 无                 |                    |
-| USC          | 22               | 10                                   | ISE PHD | 12.18面(in person) | Offer (fellowship) |
+| 学校(院系)         | 项目    | 面试情况           | 结果               |备注|
+| ------------ | ------- | ------------------ | ------------------ |------------------ |
+| Stanford      | ME MS  | 无                 | 拒绝               | 顺便申了Knihgt奖学金也被拒了，2020年Kinght学者申请和录取比例为75
+| UC Berkeley  | ME PHD  | Two (both are Assistant Professors)   | 口头offer，最终拒绝    | AP1的funding让我每年去香港一个夏天，我觉得签证头大，就拒了。AP2的方向我觉得不太合适，也拒了。
+| CMU RI       | Robotics PHD  | 无                 |         拒绝           |感觉非CS出身没戏 |
+| Toronto UTIAS  | MAS | 有 | 口头offer，最终拒绝 | 应该是老板要去捞的，后来我不想去这了，我也没告诉那个Professor后续了| 
  
 
 Timetable
