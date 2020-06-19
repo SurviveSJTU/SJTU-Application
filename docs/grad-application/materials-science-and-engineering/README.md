@@ -3,7 +3,7 @@
 
 #### PhD Programs:
 
-- [15级-赵李明 Cornell](grad-application/materials-science-and-engineering/[US]-15-zhaoliming.md)
+- [15级-赵李明 Cornell(南科大样本)](grad-application/materials-science-and-engineering/[US]-15-zhaoliming.md)
 
 #### Master Programs:
 

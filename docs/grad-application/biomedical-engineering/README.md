@@ -3,7 +3,7 @@
 
 #### PhD Programs:
 
-  - [16级-邓雨晴 Boston University](grad-application/biomedical-engineering/[US]-16-dengyuqing.md)
+  - [16级-邓雨晴 Boston University(南科大样本)](grad-application/biomedical-engineering/[US]-16-dengyuqing.md)
 
 
 #### Master Programs:

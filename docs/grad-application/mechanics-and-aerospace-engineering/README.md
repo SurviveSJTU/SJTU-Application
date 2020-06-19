@@ -2,7 +2,6 @@
 
 #### PhD Programs:
 
-  - [15级-贺子龙 UMN](grad-application/mechanics-and-aerospace-engineering/[US]-15-hezilong.md)
 
 #### Master Programs:
 

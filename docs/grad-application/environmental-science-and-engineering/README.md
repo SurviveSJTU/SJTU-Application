@@ -6,7 +6,7 @@ To be continued.
 
 #### Master Programs:
 
-- [16级-田璐 ETH](grad-application/earth-and-space-science/[CH]-16-tianlu.md)
+- [16级-田璐 ETH(南科大样本)](grad-application/earth-and-space-science/[CH]-16-tianlu.md)
 
 
 

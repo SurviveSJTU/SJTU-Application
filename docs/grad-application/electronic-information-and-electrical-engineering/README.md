@@ -2,7 +2,7 @@
 
 #### PhD Programs:
 
-  - [16级-王雨童 University of California, Davis](grad-application/electronic-information-and-electrical-engineering/[US]-16-wangyutong.md)
+  - [16级-王雨童 University of California, Davis(南科大样本)](grad-application/electronic-information-and-electrical-engineering/[US]-16-wangyutong.md)
   - [15级-秦连柯 Northwestern University](grad-application/electronic-information-and-electrical-engineering/[US]-15-liankeqin.md)
 
 #### Master Programs:
