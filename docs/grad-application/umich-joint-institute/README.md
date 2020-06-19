@@ -1,21 +1,20 @@
-## 安泰经济与管理学院
+## 密西根学院
 
 #### PhD Programs:
 
-To be continued.
 
 #### Master Programs:
 
-
+To be continued.
 
 
 
 ##### 直博：
 
-To be continued.
 
 ##### 保研：
 
+To be continued.
 
 ##### 考研：
 

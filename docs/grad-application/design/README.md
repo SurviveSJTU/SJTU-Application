@@ -1,13 +1,10 @@
-## 安泰经济与管理学院
+## 设计学院
 
 #### PhD Programs:
 
 To be continued.
 
 #### Master Programs:
-
-
-
 
 
 ##### 直博：
