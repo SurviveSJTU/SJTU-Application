@@ -24,27 +24,12 @@
 
 一共申请了17所美国大学，目前为止获得的结果如下
 
-| 学校         | US News  ranking | Engineering Graduate School ranking | 项目    | 面试情况           | 结果               |
-| ------------ | ---------------- | ------------------------------------ | ------- | ------------------ | ------------------ |
-| MIT          | 3                | 1                                    | ME PHD  | 无                 | 拒绝               |
-| Stanford     | 3                | 2                                    | ME PHD  | 无                 | 拒绝               |
-| UC Berkeley  | 22               | 3                                    | ME PHD  | 无                 |                    |
-| UCLA         | 20               | 16                                   | ME PHD  | 12.20面(in person) | Offer              |
-| UPenn        | 6                | 18                                   | ME PHD  | 无                 |                    |
+| 学校         | 项目    | 面试情况           | 结果               |
+| ------------ | ------- | ------------------ | ------------------ |
+| Stanford      | ME MS  | 无                 | 拒绝               |
+| UC Berkeley  | ME PHD  | Two (both are Assistant Professors)   | 口头offer                   |
+| CMU RI       | Robotics PHD  | 无                 |                    |
 | USC          | 22               | 10                                   | ISE PHD | 12.18面(in person) | Offer (fellowship) |
-| USC          | 22               | 10                                   | ME PHD  | 1.19面（skype）    | 拒绝               |
-| UCSD         | 37               | 9                                    | ME PHD  | 无                 |                    |
-| UCSB         | 34               | 27                                   | ME PHD  | 无                 | 拒绝               |
-| Purdue       | 57               | 7                                    | ME PHD  | 无                 |                    |
-| NEU          | 40               | 31                                   | ME PHD  | 无                 |                    |
-| Tufts        | 29               | 67                                   | ME PHD  | 无                 |                    |
-| UW           | 62               | 24                                   | ME PHD  | 无                 | Admission          |
-| UCI          | 36               | 36                                   | ME PHD  | 无                 |                    |
-| BU           | 40               | 36                                   | ME PHD  | 无                 | Offer (fellowship) |
-| UC Davis     | 39               | 33                                   | ME PHD  | 无                 | Admission          |
-| WPI          | 64               | 89                                   | ME PHD  | 1.10面(微信)       | Offer              |
-| UC Riverside | 91               | 80                                   | ME PHD  | 无                 |                    |
-
  
 
 Timetable
