@@ -30,5 +30,5 @@
 
 
 1. 对于没有Git使用背景的大部分同学：请将编辑好的`Word`/`Pages`文件发送到**lianke DOT qin AT gmail.com**，我们会帮助你上架。
-2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/SurviveSJTU/SJTU-Application/tree/master/docs)路径下的对应文件夹Pull Request，可参考 **[《如何进行经验分享》](如何进行经验分享)**，Merge后便即时上线。
+2. 对于熟悉Git操作的同学：请对[`docs`](https://github.com/SurviveSJTU/SJTU-Application/tree/master/docs)路径下的对应文件夹Pull Request，可参考 **[《如何进行经验分享》](如何进行经验分享)**，Merge后便即时上线。请注意文件名请全部使用英文并符合之前的模板，不允许有空格，请使用-代替空格。
 3. 如需更新内容，请及时联系我们！
