@@ -7,6 +7,8 @@
 
 #### Master Programs:
 
+ - [15级-杨超琪 University of Illinois, Urbana-Champaign](grad-application/electronic-information-and-electrical-engineering/[US]-15-chaoqiyang.md)
+
 
 
 ##### 直博：
