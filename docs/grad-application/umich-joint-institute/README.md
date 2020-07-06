@@ -2,7 +2,7 @@
 
 #### PhD Programs:
 
- - [15级-JasonQSY](grad-application/electronic-information-and-electrical-engineering/[US]-15-chaoqiyang.md)
+ - [15级-JasonQSY](grad-application/umich-joint-institute/[US]-15-shengyiqian.md)
 
 #### Master Programs:
 
