@@ -5,7 +5,7 @@
 - [16级-宋奉隆 ETH](grad-application/mechanical-and-energy-engineering/[EU]-16-fenglongsong-ETH-Zurich.md)
 #### Master Programs:
 
-To be continued.
+- [15级-来同学 HKUST](grad-application/mechanical-and-energy-engineering/[HK]-15-bai-HKUST.md)
 
 
 
