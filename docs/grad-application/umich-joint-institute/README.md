@@ -3,6 +3,8 @@
 #### PhD Programs:
 
  - [15级-JasonQSY](grad-application/umich-joint-institute/[US]-15-shengyiqian.md)
+ - [16级-刘嘉晨](grad-application/umich-joint-institute/[US]-16-刘嘉晨.md)
+ 
 
 #### Master Programs:
 
