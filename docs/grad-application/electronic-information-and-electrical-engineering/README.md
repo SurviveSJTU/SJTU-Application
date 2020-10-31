@@ -21,7 +21,7 @@ To be continued.
 
 ##### 考研：
 
-To be continued.
+ - [16级-杜家俊-交大计算机](grad-application/electronic-information-and-electrical-engineering/[CN]-16-jiajundu.md)
 
 ##### 就业：
 
