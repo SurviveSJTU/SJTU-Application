@@ -27,5 +27,6 @@ To be continued.
 
   - [13级-互联网研发岗]([CN]-13-yintongma.md)
   - [15级-互联网产品岗]([CN]-15-rongchengzhang.md)
+  - [17级-腾讯微信事业群后台开发]([CN]-17-wenjiezhu.md)
 
 
