@@ -1,6 +1,16 @@
 # How to escape Industrial Engineering (or other ME bachelor programs)
 
-## Application Results
+## Background
+- GPA: (3.58/4.3)
+- 百分制: (84.7/100)
+- 没有科研经历
+- 没有奖学金
+- 有一门挂科，大学化学
+- 2 internships:
+  - 美团后端实习（业务开发），三个月
+  - 私募交易系统开发（架构），六个月
+
+## Application Status
 
 |  Program Name   | Result  |
 |  ----  | ----  |
