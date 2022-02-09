@@ -20,7 +20,7 @@
 | NUS-Master of Computing (Information Systems)  | Waiting |
 | NUS-Master of Science in Financial Engineering | Admission |
 | NUS-Master of Science in Digital Financial Technology | Waiting |
-| NUS-Master of Science in Data Science and Machine Learning | Waiting |
+| NUS-Master of Science in Data Science and Machine Learning | Admission |
 | NUS-Master of Science in Statistics  | Waiting |
 | NUS-Master of Science in Computer Engineering | Waiting |
 | NTU-Master of Science in Artificial Intelligence | Waiting |
