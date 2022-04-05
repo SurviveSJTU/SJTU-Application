@@ -26,7 +26,7 @@
 | NUS-Master of Science in Computer Engineering | Waiting |
 | NTU-Master of Science in Artificial Intelligence | Waiting |
 | NTU-Master of Science in Information Systems | Waiting |
-| NTU-Master of Science in Financial Technology | Waiting |
+| NTU-Master of Science in Financial Technology | Admission |
 
 ## Why escaping?
 
