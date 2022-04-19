@@ -26,7 +26,7 @@
 | NUS-Master of Science in Digital Financial Technology | Waiting |
 | NTU-Master of Science in Artificial Intelligence | Waiting |
 | NTU-Master of Science in Information Systems | Waiting |
-| NUS-Master of Computing (General Track)  | Waiting |
+| NUS-Master of Computing (General Track)  | Admission |
 | NUS-Master of Computing (Information Systems)  | Waiting |
 
 目前 2022 年 4 月 7 日，接了 NUS 的 Data Science，继续等 Computing 的 offer 中。
