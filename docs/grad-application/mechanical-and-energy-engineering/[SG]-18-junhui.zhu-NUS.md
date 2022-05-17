@@ -23,7 +23,7 @@
 | NUS-Master of Science in Quantitative Finance  | Admission |
 | NUS-Master of Science in Financial Engineering | Admission |
 | NUS-Master of Science in Data Science and Machine Learning | Admission |
-| NUS-Master of Science in Digital Financial Technology | Waiting |
+| NUS-Master of Science in Digital Financial Technology | Unsuccessful |
 | NTU-Master of Science in Artificial Intelligence | Waiting |
 | NTU-Master of Science in Information Systems | Waiting |
 | NUS-Master of Computing (General Track)  | Admission |
