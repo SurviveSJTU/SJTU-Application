@@ -25,7 +25,7 @@
 | NUS-Master of Science in Data Science and Machine Learning | Admission |
 | NUS-Master of Science in Digital Financial Technology | Unsuccessful |
 | NTU-Master of Science in Artificial Intelligence | Waiting |
-| NTU-Master of Science in Information Systems | Waiting |
+| NTU-Master of Science in Information Systems | Admission |
 | NUS-Master of Computing (General Track)  | Admission |
 | NUS-Master of Computing (Information Systems)  | Waiting |
 
