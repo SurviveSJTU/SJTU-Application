@@ -2,7 +2,7 @@
 
 #### PhD Programs:
 
-- [16级-陈颖 Rice University(南科大样本)](grad-application/chemistry/[US]-15-chenying.md)
+- [16级-陈颖 Rice University(南科大样本)](grad-application/chemistry/[US]-16-chenying.md)
 
 #### Master Programs:
 
