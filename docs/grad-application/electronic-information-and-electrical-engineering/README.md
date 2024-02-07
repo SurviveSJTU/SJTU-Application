@@ -28,5 +28,4 @@ To be continued.
   - [13级-互联网研发岗](grad-application/electronic-information-and-electrical-engineering/[CN]-13-yintongma.md)
   - [15级-互联网产品岗](grad-application/electronic-information-and-electrical-engineering/[CN]-15-rongchengzhang.md)
   - [17级-互联网研发岗](grad-application/electronic-information-and-electrical-engineering/[CN]-17-wenjiezhu.md)
-
-
+  - [16级-区块链研发岗](grad-application/electronic-information-and-electrical-engineering/[CN]-16-Hecate2.md)
