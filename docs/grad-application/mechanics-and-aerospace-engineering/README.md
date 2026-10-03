@@ -24,4 +24,4 @@ To be continued.
 
 ##### 就业：
 
-To be continued.
+  - [26级-determine-AI方向就业](grad-application/mechanics-and-aerospace-engineering/[CN]-26-determine-航空航天硕-AI方向就业.md)
